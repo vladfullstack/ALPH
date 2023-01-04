@@ -28,7 +28,11 @@
   -->
   <body class="d-flex flex-column h-100">
     <main class="flex-shrink-0">
-      <!-- Navigation-->
+      <!-- 
+      ############
+      Navigation
+      ############
+      -->
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container px-5">
           <a class="navbar-brand" href="index.html">
@@ -116,7 +120,12 @@
           </div>
         </div>
       </nav>
-      <!-- Header-->
+
+      <!-- 
+      ############
+      Header
+      ############
+      -->
       <header class="bg-dark py-5">
         <div class="container px-5">
           <div class="row gx-5 align-items-center justify-content-center">
@@ -149,7 +158,11 @@
           </div>
         </div>
       </header>
-      <!-- Features section-->
+      <!-- 
+      ############
+      Features section
+      ############
+      -->
       <section class="py-5" id="features">
         <div class="container px-5 my-5">
           <div class="row gx-5">
@@ -211,7 +224,11 @@
           </div>
         </div>
       </section>
-      <!-- Testimonial section-->
+      <!-- 
+      ############
+      Testimonial section
+      ############
+      -->
       <div class="py-5 bg-light">
         <div class="container px-5 my-5">
           <div class="row gx-5 justify-content-center">
@@ -244,7 +261,11 @@
           </div>
         </div>
       </div>
-      <!-- Blog preview section-->
+      <!-- 
+      ############
+      Blog preview section
+      ############
+      -->
       <section class="py-5">
         <div class="container px-5 my-5">
           <div class="row gx-5 justify-content-center">
@@ -387,7 +408,11 @@
         </div>
       </section>
     </main>
-    <!-- Footer-->
+    <!-- 
+    ############
+    Footer
+    ############
+    -->
     <footer class="bg-dark py-4 mt-auto">
       <div class="container px-5">
         <div
