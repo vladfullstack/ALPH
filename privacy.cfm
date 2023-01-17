@@ -6,13 +6,7 @@
   -->
   <body class="d-flex flex-column h-100">
     <main class="flex-shrink-0">
-    
-      <!---
-      ############
-      Navigation
-      ############
-      --->
-      <cfinclude template = "inc_nav.cfm">
+     <cfinclude template = "inc_nav.cfm">
 
       <!-- 
       ############
